@@ -4,7 +4,7 @@
 
 </div>
 <div id="footer" align="center">
-	<img src="/ncw/images/drawfstar.png"><span><p>This site is Designed and Maintained by <strong>DrawfStar Network Productions</strong>.<br>Contact @ <em> pratishtha60@gmail.com </em>.</p></span>
+	<img src="/ncw/images/drawfstar.png"><span><p>This site is Designed and Maintained by <strong>Pratishtha Tiwari</strong> & <strong>Harsh Rawat</strong>.<br>Contact @ <em> pratishtha60@gmail.com </em> & <em> harshrawat66@gmail.com</em> </em>.</p></span>
 </div>
 </body>
 <script>
